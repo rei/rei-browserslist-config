@@ -1,5 +1,5 @@
 {
-  "name": "@rei/browserslist-config",
+  "name": "@rei/browserslist",
   "version": "1.0.0",
   "description": "REI supported browsers list",
   "main": "index.js",
