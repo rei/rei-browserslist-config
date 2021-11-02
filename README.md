@@ -1,2 +1,2 @@
-# rei-browserslist-config
+# @rei/browsers-config
 REI supported browserslist config
